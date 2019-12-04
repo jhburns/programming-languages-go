@@ -1,3 +1,3 @@
 # Go
 
-<img src=".thumb/animation/2bit-sprite/demo.gif ">
+<img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif ">
