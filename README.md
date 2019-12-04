@@ -2,6 +2,18 @@
 
 <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif ">
 
+## Hello World
+
+```golang
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
+```
+ 
  
 ## WHY
 Why we chose Go is a question of what we could all agree on since we are a group of three. The qualities we wanted in a language is that it is relatively established, and has a lot of material. Go fulfills these standards, as it recently celebrated its 10 year birthday (https://blog.golang.org/10years) and is ranked 15th currently on the PYLP index (http://pypl.github.io/PYPL.html). PopularitY of Programming Language (PYLP) measures how much a language is searched for online, and its ranking indicates that it is one of the more popular out of our options. Additionally, the Go community is good at creating resources for developers learning the language. There is “A Tour of Go” (https://tour.golang.org/welcome/1) that you can use to learn go in browser without having to download or install anything. Also, there is Go by Example (https://gobyexample.com/) which provides snippets of commonly used parts of the language, and Codecademy’s free tutorials to learn go (https://www.codecademy.com/learn/learn-go). Finally, the go gopher is no contest the best programming language mascot (https://blog.golang.org/gopher). 
