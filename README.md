@@ -2,6 +2,8 @@
 
 <img src="https://github.com/egonelbre/gophers/blob/master/.thumb/animation/gopher-dance-long-3x.gif ">
 
+By Jonathan Burns, Tristan Chilvers, and Matthew Parnham
+
 ## Hello World
 
 ```golang
