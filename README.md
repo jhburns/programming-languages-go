@@ -54,5 +54,11 @@ Go is still trying to find its niche in the programming world.  Google says that
 ## INTERESTING FEATURES
 Go’s most notable feature is its ‘goroutines’.  Goroutines are essentially just green threads (scheduled by Go during runtime instead of by the OS).  The reason they are so good stems from their size on the heap.  Goroutines used approximately 2KB of memory from the heap.  This is a major improvement over the approximately 1MB threads used in Java.  This allows users to spin up significantly more goroutines at any given time.  Unlike many other modern programming languages that are compiled or built on a VM, Go is compiled directly into binaries, negating the need for extra software to execute and potentially giving a speed boost to Go programs.  It is apparent that Go is intended for large, scalable, concurrent systems however, as it lacks many common features.  Go has structs instead of classes and only allows for interfaces instead of full inheritance.
 
+## Extra Links
+
+Handout https://drive.google.com/file/d/1VMSRV0u3oOmtlFjJlKUj_qg4vYH_LPiP/view?usp=sharing
+
+Presentation https://docs.google.com/presentation/d/1-fqnT-W-rwRgdcQKWuy4zNfnJbI7SCyrm7u_Vqck__c/edit?usp=sharing
+
 <img src="https://blog.golang.org/gopher/header.jpg" >
 
